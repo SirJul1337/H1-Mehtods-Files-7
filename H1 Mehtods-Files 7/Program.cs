@@ -15,21 +15,7 @@ namespace H1_Mehtods_Files_7
             string search = "";
             string file = "";
             int menu = 0;
-            //Console.WriteLine
-            //(
-            //    "============================================\n" +
-            //    "                H1 Queue Operation Menu     \n" +
-            //    "============================================\n" +
-            //    "1. Add File " +
-            //    "\n2. Delete file " +
-            //    "\n3. Display files" +
-            //    "\n4. Add folder " +
-            //    "\n5. Search for file in folder " +
-            //    "\n6. Exit\n" +
-            //    "\nEnter your choice"
 
-            //);
-            //menu = int.Parse(Console.ReadLine());
             do
             {
                 switch (menu)
